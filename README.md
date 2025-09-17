@@ -15,11 +15,6 @@ Testing
 
 Deployable web application
 
-Installation
-git clone https://github.com/DeepFake-Detection-AI.git
-cd DeepFake-Detection-AI
-pip install -r requirements.txt
-
 Usage
 # Train the model
 python Code/train.py
